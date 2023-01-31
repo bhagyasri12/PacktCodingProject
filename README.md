@@ -57,5 +57,5 @@ All methods except getBooks() (retrieving of books list) are secured by admin mi
 
 Images are stored in public folder in the same application
 
-ElastiSearchController:
+ElasticSearchController:
 has code for inserting data into elastic search and retreiving
