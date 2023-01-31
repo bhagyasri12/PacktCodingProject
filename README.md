@@ -41,9 +41,7 @@ Used laravel auth for login / register (so it has inbuilt Auth routes)
 /get-books : gets all books based on search and pagination results
 
 /books : this is a resource controller route which has crud operations based on the url and method of the route
-/books => as a resource controller has all crud operations
-using soft deletes for deleting of books
-
+used soft deletes for deleting of books
 
 
 /migrate-books :  migrates all books data from DB to elastic search
