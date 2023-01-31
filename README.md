@@ -1,4 +1,4 @@
-##Requirements
+## Requirements
 1. php 8
 2. laravel 9
 3. vue 3
@@ -16,7 +16,7 @@ Please run the below commands after cloning this project
 
 8. php artisan storage:link (for linking storage & public folder)
 
-##credentials
+## credentials
 1. admin credentials
     username: admin@gmail.com
     password: admin 
@@ -27,7 +27,7 @@ Please run the below commands after cloning this project
 
 (password is hashed and cannot be identified from the DB)
 
-##apis
+## apis
 written in web.php
 
 Used laravel auth for login / register (so it has inbuilt Auth routes)
@@ -51,7 +51,7 @@ using soft deletes for deleting of books
 
 
 
-##Controller
+## Controller
 
 BookController:
 It is a resource controller which has all crud operations of a book.
